@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=itsmeRonjie&style=flat-square&color=blue" alt=""/>
 
 ## Github Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false&count_private=true" width="50%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeRonjie&theme=monokai&hide_border=false" width="500" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false&layout=compact" width="500" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false&count_private=true" width="100%"/>
+    </td>
+    <td >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeRonjie&theme=monokai&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false"/>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ronjiemanon">
@@ -39,10 +39,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-
 ## My Skill Sets
-
 <table align="center" width="100%">
   <tr>
     <th width="33%">Frontend</th>
@@ -68,7 +65,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40" />
-          
   </td>
   <td align="center" width="33.3%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40" />
@@ -81,8 +77,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />
-                             
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />                       
   </td>
 </tr>
 </table>
