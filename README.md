@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Github Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false&count_private=true" width="500" />
+</p>
 
-[![Ronjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeRonjie)](https://github.com/itsmeRonjie/github-readme-stats)
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeRonjie&theme=monokai&hide_border=false" width="500" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeRonjie&theme=monokai&show_icons=true&hide_border=false&layout=compact" width="500" />
+</p>
