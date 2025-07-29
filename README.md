@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Mobile App Development
-- 🌱 I’m currently learning Swift/SwiftUI
+- 🌱 I’m a mobile developer with almost 3 years of experience creating apps for both Android and iOS. I enjoy working with Kotlin and Jetpack on the Android side, and Swift with SwiftUI for iOS. What drives me is building smooth, user-friendly experiences that people actually enjoy using. I care about writing clean, maintainable code and constantly learning new ways to improve what I build. Whether it’s crafting intuitive interfaces or solving tricky bugs, I love being part of the process that brings ideas to life on mobile.
 
 <!--
 **itsmeRonjie/itsmeRonjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
