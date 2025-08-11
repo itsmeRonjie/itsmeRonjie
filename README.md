@@ -4,9 +4,9 @@
 
 Check out my projects:
 
-• [Apple Dev](https://github.com/apple-dev-studio)
-• [Android Dev](https://github.com/android-dev-studio)
-• [Backend Dev](https://github.com/backend-dev-studio)
+• [Apple Projects](https://github.com/apple-dev-studio)
+• [Android Projects](https://github.com/android-dev-studio)
+• [Backend Projects](https://github.com/backend-dev-studio)
 
 <!--
 **itsmeRonjie/itsmeRonjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
